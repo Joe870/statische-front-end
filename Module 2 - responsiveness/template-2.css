@@ -1,0 +1,23 @@
+div.first{
+    background-color:aquamarine;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    padding: 20px;
+}
+div.first.h2{
+    color:chartreuse;
+}
+div.second{
+    background-color: darkolivegreen;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div.second.h2{
+    color:coral;
+}
+h1{
+    color:blueviolet;
+}
+body{
+    position: relative;
+    left: 50px;
+}

@@ -1,0 +1,38 @@
+h1.dit-ben-ik{
+    color:blue;
+    background-color:black
+}
+h2.hobbys{
+    color:red;
+    background-color:black
+}
+h1.studie-software-developer{
+    color:green;
+    background-color:black
+}
+h1{
+    text-align: center;
+}
+div{
+    margin:10px;
+    padding:20px;
+    background-color:cornflowerblue
+}
+a.link-1:link{
+    color:blue
+}
+a.link-1:visited{
+    color:blue
+}
+a.link-1:hover{
+    color:gold
+}
+a:link{
+    color:blue
+}
+a:visited{
+    color:blue
+}
+a:hover{
+    color:gold
+}

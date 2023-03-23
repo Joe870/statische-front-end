@@ -1,0 +1,36 @@
+a:link{
+    color:darkcyan
+}
+a:visited{
+    color:gold
+}
+a:hover{
+    color:gold
+}
+body{
+    background-color: lightsteelblue;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:medium;
+}
+
+div.linkCV{
+    width: 80px;
+    border-color: honeydew;
+    border-width: auto;
+    border-style: outset;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
+div.diploma{
+    width: 80px;
+    border-color: honeydew;
+    border-width: auto;
+    border-style: outset;
+    border-radius: 50px;
+    padding: 20px;
+    margin: 20px;
+    text-align: center;
+}
